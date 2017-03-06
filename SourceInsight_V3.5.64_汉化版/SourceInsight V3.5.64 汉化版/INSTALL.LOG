@@ -1,0 +1,134 @@
+***  Installation Started 01/16/2016 17:21  ***
+Title: Source Insight 3.5 Installation
+Source: C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\GLB55.tmp
+Made Dir: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版
+Made Dir: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Source Insight 3.5
+RegDB Val: Source Insight 3.5
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Source Insight 3.5
+RegDB Val: D:\智能车~1\SOURCE~1.64_\SOURCE~1.64\UNWISE.EXE D:\智能车~1\SOURCE~1.64_\SOURCE~1.64\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\Source Insight.chm
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\eventsample.em
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\Insight3.exe
+Made Dir: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\images
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\images\SubBack.jpg
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\images\1p.gif
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\main.css
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\Changes.html
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\changes.txt
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\utils.em
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\StdConst.bas
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\sihook3.exe
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\readme.txt
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\Newsetup.ini
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\FileAlias.txt
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\C.tom
+File Copy: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\eula.txt
+Made Dir: C:\Documents and Settings\All Users\「开始」菜单\程序\Source Insight 3
+Shell Link: C:\Documents and Settings\All Users\「开始」菜单\程序\Source Insight 3\ReadMe.lnk
+Shell Link: C:\Documents and Settings\All Users\「开始」菜单\程序\Source Insight 3\Source Insight 3.5.lnk
+Shell Link: C:\Documents and Settings\All Users\「开始」菜单\程序\Source Insight 3\License Agreement.lnk
+Shell Link: C:\Documents and Settings\All Users\「开始」菜单\程序\Source Insight 3\Change History.lnk
+Made Dir: C:\Documents and Settings\Administrator\「开始」菜单\程序\Source Insight 3
+Shell Link: C:\Documents and Settings\Administrator\「开始」菜单\程序\Source Insight 3\Source Insight Help.lnk
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\App Paths\insight3.exe
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\App Paths\insight3.exe
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版
+RegDB Name: Path
+RegDB Root: 2
+RegDB Key: SOFTWARE\Source Dynamics\Source Insight\3.0\Paths
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版
+RegDB Name: InitDir
+RegDB Root: 2
+RegDB Old: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版
+RegDB Key: SOFTWARE\Source Dynamics\Source Insight\3.0\Paths
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\Backup
+RegDB Name: BackupDir
+RegDB Root: 2
+RegDB Key: .PR
+RegDB Val: insight.Project
+RegDB Key: insight.Project
+RegDB Val: Source Insight Project
+RegDB Key: insight.Project\shell\open\command
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe -p "%1"
+RegDB Key: insight.Project\DefaultIcon
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe,1
+RegDB Key: .CF
+RegDB Val: insight.Configuration
+RegDB Key: insight.Configuration
+RegDB Val: Source Insight Configuration File
+RegDB Key: insight.Configuration\shell\open\command
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe -i "%1"
+RegDB Key: insight.Configuration\DefaultIcon
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe,2
+RegDB Key: .CF3
+RegDB Val: insight.Configuration
+RegDB Key: insight.Configuration
+RegDB Val: Source Insight Configuration File
+RegDB Old: Source Insight Configuration File
+RegDB Key: insight.Configuration\shell\open\command
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe -i "%1"
+RegDB Old: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe -i "%1"
+RegDB Key: insight.Configuration\DefaultIcon
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe,2
+RegDB Old: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe,2
+RegDB Key: .WK
+RegDB Val: insight.Workspace
+RegDB Key: .RCV
+RegDB Val: insight.Recovery
+RegDB Key: insight.Recovery
+RegDB Val: Source Insight Recovery File
+RegDB Key: insight.Recovery\shell\open\command
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe "%1"
+RegDB Key: .TOM
+RegDB Val: insight.TokenMacro
+RegDB Key: insight.TokenMacro
+RegDB Val: Source Insight Token Macros
+RegDB Key: insight.TokenMacro\shell\open\command
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe -i "%1"
+RegDB Key: .WK3
+RegDB Val: insight.Workspace
+RegDB Key: insight.Workspace
+RegDB Val: Source Insight Workspace File
+RegDB Key: .SearchResults
+RegDB Val: insight.SearchResults
+RegDB Key: insight.SearchResults
+RegDB Val: Source Insight Search Results
+RegDB Key: insight.SearchResults\shell\open\command
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe -i "%1"
+RegDB Key: .EM
+RegDB Val: insight.Macro File
+RegDB Key: insight.Macro File
+RegDB Val: Source Insight Macro
+RegDB Key: insight.Macro File\shell\open\command
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe -i "%1"
+RegDB Key: .CLF
+RegDB Val: insight3.CustLangFile
+RegDB Key: insight3.CustLangFile
+RegDB Val: Source Insight Custom Language
+RegDB Key: insight3.CustLangFile\shell\open\command
+RegDB Val: D:\智能车相关文件\SourceInsight_V3.5.64_汉化版\SourceInsight V3.5.64 汉化版\insight3.exe %1
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Source Insight 3.5
+RegDB Val: 425-557-3630
+RegDB Name: HelpTelephone
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Source Insight 3.5
+RegDB Val: Source Dynamics, Inc.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Source Insight 3.5
+RegDB Val: http://www.sourceinsight.com/support.html
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Source Insight 3.5
+RegDB Val: support@sourceinsight.com
+RegDB Name: Contact
+RegDB Root: 2
+User Rights: Admin
